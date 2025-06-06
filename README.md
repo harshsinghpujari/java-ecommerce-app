@@ -19,4 +19,9 @@ A simple Java console-based E-Commerce app that allows you to manage products li
 - Object-Oriented Design
 - Console-based User Input with Scanner
 
-## 📂 Project Structure
+
+
+## 🙌 Author
+
+Himanshu Singh
+https://github.com/harshsinghpujari 
